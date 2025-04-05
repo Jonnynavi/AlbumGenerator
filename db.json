@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "4b1e",
+      "name": "Eduardo Armstrong"
+    },
+    {
+      "id": "b8ae",
+      "name": "Arnold Koss"
+    },
+    {
+      "id": "921c",
+      "name": "Sherri Pouros"
+    }
+  ],
+  "albums": [
+    {
+      "id": "4e08",
+      "title": "Frozen Ceramic Pizza",
+      "userId": "4b1e"
+    },
+    {
+      "id": "e7bb",
+      "title": "Small Concrete Mouse",
+      "userId": "b8ae"
+    },
+    {
+      "id": "b23d",
+      "title": "Unbranded Metal Chicken",
+      "userId": "b8ae"
+    },
+    {
+      "id": "1b1b",
+      "title": "Bespoke Marble Table",
+      "userId": "b8ae"
+    },
+    {
+      "id": "0dc3",
+      "title": "Oriental Ceramic Pizza",
+      "userId": "921c"
+    },
+    {
+      "id": "fda4",
+      "title": "Rustic Steel Sausages",
+      "userId": "921c"
+    },
+    {
+      "id": "9fda",
+      "title": "Gorgeous Bronze Chips",
+      "userId": "4b1e"
+    }
+  ],
+  "photos": [
+    {
+      "id": "0c31",
+      "albumId": "4e08",
+      "url": "https://picsum.photos/seed/97NUjzH/1531/996?grayscale&blur=6",
+      "title": "Recycled Cotton Sausages"
+    },
+    {
+      "id": "ebc1",
+      "albumId": "e7bb",
+      "url": "https://picsum.photos/seed/8pPXke9/2895/1448?blur=2",
+      "title": "Oriental Silk Chicken"
+    },
+    {
+      "id": "45fe",
+      "albumId": "4e08",
+      "url": "https://picsum.photos/seed/XBi6RjJKFh/2647/2775?blur=5",
+      "title": "Fantastic Gold Table"
+    },
+    {
+      "id": "bdae",
+      "albumId": "e7bb",
+      "url": "https://picsum.photos/seed/3DXH6/2780/1723?blur=9",
+      "title": "Oriental Steel Mouse"
+    },
+    {
+      "id": "afc0",
+      "albumId": "4e08",
+      "url": "https://picsum.photos/seed/JT8dn/2852/3446?grayscale&blur=7",
+      "title": "Handmade Ceramic Soap"
+    },
+    {
+      "id": "7a6e",
+      "albumId": "e7bb",
+      "url": "https://picsum.photos/seed/NXSiI2G/268/3066?blur=2",
+      "title": "Awesome Concrete Sausages"
+    },
+    {
+      "id": "d648",
+      "albumId": "e7bb",
+      "url": "https://picsum.photos/seed/XBD4s5uWel/3680/970?grayscale&blur=7",
+      "title": "Licensed Silk Pants"
+    },
+    {
+      "id": "f588",
+      "albumId": "9fda",
+      "url": "https://picsum.photos/seed/I7xFPzy3FU/927/1931",
+      "title": "Rustic Aluminum Mouse"
+    },
+    {
+      "id": "5af8",
+      "albumId": "9fda",
+      "url": "https://picsum.photos/seed/tGE47W/3950/1128?blur=3",
+      "title": "Practical Bronze Hat"
+    }
+  ]
+}
